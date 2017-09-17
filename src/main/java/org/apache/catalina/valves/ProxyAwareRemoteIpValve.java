@@ -14,6 +14,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+/*
+ * RemoteIpValve with patch applied from: https://bz.apache.org/bugzilla/show_bug.cgi?id=57665#c13
+ */
 package org.apache.catalina.valves;
 
 import java.io.IOException;
